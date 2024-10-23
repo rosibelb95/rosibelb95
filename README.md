@@ -30,9 +30,10 @@
 
 </p>
 <br />
-<h3 align="center"> Estadística:</h3>
+<h3 align="center"> Estadística:💻 </h3>
 <hr> 
-https://github-readme-stats.vercel.app/api/top-langs/?username=rosibelb95&theme=radical&show_icons=true&hide_border=true&layout=compact
+<img alt="Estadistica" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosibelb95&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+
 <hr> 
  
 <h3 align="center"> Mis Redes Sociales:</h3>
