@@ -7,6 +7,8 @@
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h4 align="left">Lenguajes y herramientas: 👩‍💻🛠️  </h4>
 <p align="left"> 
+ 
+<hr> 
 
 <h5 align="left">Lenguajes de Programación </h5>
 <p align="left">
