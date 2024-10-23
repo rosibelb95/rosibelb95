@@ -1,10 +1,10 @@
  ###   Holaa! Soy Rosibel, Bienvenidos a mi Perfil de GITHUB 💜💻
  
 <img alt="GIF" src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif" width = 200/>
-<p align='center'>
-</
+
 
 <!-- CONTACTO -->
+### 👨🏻‍💻 &nbsp;About Me
 <h4 align="left">Redes Sociales:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/rosibel-marin%C3%A9-brice%C3%B1o-barreto-0aa774151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rosibel Briceño" height="30" width="40" /></a>
