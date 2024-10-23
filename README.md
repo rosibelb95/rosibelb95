@@ -1,8 +1,14 @@
  ###   Holaa! Soy Rosibel, Bienvenidos a mi Perfil de GITHUB 💜💻 
  
-<img alt="GIF" src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif" width = 200/>
+<img alt="GIF" src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif" width = 400/>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C2CF7&width=435&lines=Ing.+de+Computaci%C3%B3n+)](https://git.io/typing-svg)
+
+<hr>
+<h3 align="center">Sobre mi:🙆⭐ </h3>
+<p align="center"> 
+  📚 Soy Ing. de Computación, me apasiona el mundo de la programación y la tecnología 👩‍💻
+</p>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="center">Lenguajes y herramientas: 👩‍💻🛠️ </h3>
