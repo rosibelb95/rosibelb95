@@ -1,6 +1,8 @@
- ###   Bienvenidos! 💜💻
+ ###   Holaa! Soy Rosibel, Bienvenidos a mi Perfil de GITHUB 💜💻
+ 
 <img alt="GIF" src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif" width = 200/>
-
+<p align='center'>
+</
 
 <!-- CONTACTO -->
 <h4 align="left">Redes Sociales:</h4>
