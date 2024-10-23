@@ -7,7 +7,8 @@
 <p align="center">
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C2CF7&width=435&lines=Ing.+de+Computaci%C3%B3n+)](https://git.io/typing-svg).
-  -📚 Me apasiona el mundo de la programación y la tecnología 👩‍💻.
+ <br>
+  -📚 Me apasiona el mundo de la programación y la tecnología 👩‍💻.<br>
   -🗺️ Trujillo, Venezuela.
 </p>
 
