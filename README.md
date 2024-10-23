@@ -2,19 +2,22 @@
  
 <img alt="GIF" src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif" width = 400/>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C2CF7&width=435&lines=Ing.+de+Computaci%C3%B3n+)](https://git.io/typing-svg)
-
 <hr>
 <h3 align="center">Sobre mi:🙆⭐ </h3>
-<p align="center"> 
-  📚 Soy Ing. de Computación, me apasiona el mundo de la programación y la tecnología 👩‍💻
+<p align="center">
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C2CF7&width=435&lines=Ing.+de+Computaci%C3%B3n+)](https://git.io/typing-svg) 
+  -📚 Me apasiona el mundo de la programación y la tecnología 👩‍💻.
+  -🗺️ Trujillo, Venezuela.
 </p>
 
+
+<hr>
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="center">Lenguajes y herramientas: 👩‍💻🛠️ </h3>
 <p align="center"> 
  
-<hr> 
+ 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
