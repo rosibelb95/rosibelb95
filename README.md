@@ -21,9 +21,9 @@
 
 <p align="center">
 
- <code><img alt="HTML5" height="45rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img style="margin-left:10px;" alt="CSS3" height="45rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img height="45rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
+ <code ><img alt="HTML5" height="45rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" height="45rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code style="margin-left:250px"><img height="45rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
 <code><img height="45rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1QLwMgsIRkJxBtKZmsB6Xzrr1hVNiWQElQ&s"></code>
 <code><img height="45rem" src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-9294852-7577995.png?f=webp"></code>
 <code><img height="45rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
